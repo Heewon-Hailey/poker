@@ -1,4 +1,4 @@
-# Poker
+# The Winning Hands in Poker
 
 ## About the project
 
