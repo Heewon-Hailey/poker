@@ -2,7 +2,7 @@
 
 ## About the project
 
-For this project, I write a program that will correctly characterise a poker hand. If more than one hand is given (multiple players) as input, it decides which hand wins. It has some multiple of 5 cards that will be entered as two-character strings, the first being an A for Ace, K for King, Q for Queen, J for Jack, T for Ten, or digit between 2 and 9 for ranks 2–9. The second character will be a C for Clubs (♣), D for Diamonds (♦), H for Hearts (♥), or S for Spades (♠). It is not case-sensitive. It will take Aces to be the highest rank for simplicity. Basically, the program outputs `Player_n:_description of hand` where n is 1 when describing the first 5 cards, 2 for the next 5, and so on, and space is shown as `_`. 
+For this project, I biuld a program in Java that will correctly characterise a poker hand. If more than one hand is given (multiple players) as input, it decides which hand wins. It has some multiple of 5 cards that will be entered as two-character strings, the first being an A for Ace, K for King, Q for Queen, J for Jack, T for Ten, or digit between 2 and 9 for ranks 2–9. The second character will be a C for Clubs (♣), D for Diamonds (♦), H for Hearts (♥), or S for Spades (♠). It is not case-sensitive. It will take Aces to be the highest rank for simplicity. Basically, the program outputs `Player_n:_description of hand` where n is 1 when describing the first 5 cards, 2 for the next 5, and so on, and space is shown as `_`. 
 
 #### Standard Poker lingo
 |Category|Description|Detail|
